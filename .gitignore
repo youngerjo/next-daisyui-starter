@@ -56,3 +56,7 @@ jspm_packages
 
 # Visual Studio Code
 .vscode
+
+# Next.js
+.next
+out

@@ -5,13 +5,13 @@ A simple web starter project based on Next.js and DaisyUI
 ## Installation
 
 ```
-$ yarn
+$ bun
 ```
 
 ## Run
 
 ```
-$ yarn dev
+$ bun dev
 ```
 
 ## License

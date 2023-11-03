@@ -1,6 +1,6 @@
 {
   "name": "next-daisyui-starter",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -9,8 +9,8 @@
     "build": "next build"
   },
   "dependencies": {
-    "daisyui": "^3.9.3",
-    "next": "^13.5.5",
+    "daisyui": "^3.9.4",
+    "next": "^14.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -20,7 +20,7 @@
     "@types/react": "^18.2.28",
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.31",
-    "tailwindcss": "^3.3.3",
+    "tailwindcss": "^3.3.5",
     "typescript": "^5.2.2"
   }
 }
